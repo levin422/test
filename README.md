@@ -1,6 +1,6 @@
 # Lorem Ipsum Dolor Sit Amet
 
-Download this test file https://github.com/levin422/test/blob/master/HarvardStressRate_rev1.dat.tgz?raw=true.
+Download this test file [](https://github.com/levin422/test/blob/master/HarvardStressRate_rev1.dat.tgz?raw=true).
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
