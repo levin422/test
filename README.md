@@ -1,4 +1,4 @@
-#Lorem Ipsum Dolor Sit Amet
+# Lorem Ipsum Dolor Sit Amet
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
@@ -40,7 +40,7 @@ Pellentesque ornare blandit orci, eget tristique risus convallis ut
 
 Vivamus a sapien neque
 
-##Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing
+## Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing
 
 Nam quis sem orci
 
@@ -70,7 +70,7 @@ Suspendisse gravida malesuada mollis
 
 Praesent rutrum orci non nulla aliquet aliquam
 
-##Lorem Ipsum Dolor Sit Amet Consectetur Adipis
+## Lorem Ipsum Dolor Sit Amet Consectetur Adipis
 
 Cras scelerisque arcu non lacus interdum congue
 
@@ -96,7 +96,7 @@ Sed nec massa leo, at pulvinar ligula
 * Ad minim veniam,
 * Quis nostrud exercitation
 * Ullamco laboris nisi
-##Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing
+## Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing
 
 Maecenas a enim sem
 
@@ -106,7 +106,7 @@ Nunc non sem orci
 
 Aliquam erat volutpat
 
-##Lorem Ipsum Dolor Sit Amet Consectetur Adipisicin
+## Lorem Ipsum Dolor Sit Amet Consectetur Adipisicin
 
 Duis sit amet velit at lectus luctus aliquet id vel elit
 
